@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chatWidget"
+    }
+  },
+  "defaultProject": "chatWidget",
+  "cli": {
+    "analytics": "e7b47046-9119-4057-b84f-06afd7c2f585"
+  }
 }
